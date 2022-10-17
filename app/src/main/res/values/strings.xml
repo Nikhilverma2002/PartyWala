@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Party Wala</string>
+    <string name="skip">Skip</string>
+    <string name="image">image</string>
+    <string name="sign_in_with_google">Sign in with google</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_an_one_time_password_on_this_mobile_number">We will send you an One time Password on this mobile number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="house_no_building_name_required">House No. Building Name (Required)*</string>
+    <string name="enter_your_house_no">Enter Your House No.</string>
+    <string name="pincode_required">Pincode (Required)*</string>
+    <string name="pincode">Pincode</string>
+    <string name="use_my_location">Use my location</string>
+    <string name="state_required">State (Required)*</string>
+    <string name="enter_your_state">Enter Your State</string>
+    <string name="city_required">City (Required)*</string>
+    <string name="enter_your_city">Enter Your City</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="add_new_address">Add new address</string>
+    <string name="road_required">Road (Required)*</string>
+    <string name="enter_nearby_landmarks_road_name">Enter nearby landmarks/ Road name</string>
+    <string name="save_address">Save Address</string>
+</resources>

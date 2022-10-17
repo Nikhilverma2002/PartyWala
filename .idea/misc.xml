@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nikhi/.gradle/caches/transforms-3/bd67a06ea02bd2e603056304e12b265b/transformed/ImageSlideshow-0.1.0/res/drawable/default_selected_dot.xml" value="0.229" />
+        <entry key="..\:/Users/nikhi/.gradle/caches/transforms-3/bd67a06ea02bd2e603056304e12b265b/transformed/ImageSlideshow-0.1.0/res/drawable/default_unselected_dot.xml" value="0.229" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/background_search.xml" value="0.2185" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_blue_curve.xml" value="0.2255" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_card.xml" value="0.2245" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_circle.xml" value="0.2555" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_curve.xml" value="0.176" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_forward.xml" value="0.211" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_google.xml" value="0.229" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_heart.xml" value="0.2" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_layout.xml" value="0.2255" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_more_curve.xml" value="0.2255" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_one_side.xml" value="0.2555" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_phone_number.xml" value="0.229" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_phone_pay.xml" value="0.2245" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_save.xml" value="0.2555" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_view.xml" value="0.176" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/bg_white_circle.xml" value="0.2255" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_account.xml" value="0.121" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_amazon_pay.xml" value="0.2245" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_baby.xml" value="0.121" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_back.xml" value="0.2245" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_bday_cap.xml" value="0.229" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_bhim.xml" value="0.2245" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_card.xml" value="0.2245" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_category.xml" value="0.121" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_coupon.xml" value="0.2555" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_delivery.xml" value="0.121" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_edit.xml" value="0.121" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_ellipse3.xml" value="0.121" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_ellipse8.xml" value="0.211" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_ellipse9.xml" value="0.211" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_flag.xml" value="0.229" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_forward.xml" value="0.211" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_forward2.xml" value="0.2255" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_google.xml" value="0.2245" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_gpay.xml" value="0.2245" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_heart.xml" value="0.2255" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_heart2.xml" value="0.121" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_home.xml" value="0.121" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_mobikwik.xml" value="0.2245" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_payment.xml" value="0.2245" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_plus.xml" value="0.2555" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/ic_share.xml" value="0.2245" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/indicator_default.xml" value="0.121" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/indicator_selected.xml" value="0.121" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/indicator_selector.xml" value="0.121" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/item_background_nav_check.xml" value="0.2185" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/round_chip.xml" value="0.121" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/drawable/view_bg.xml" value="0.241" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_cart.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_edit_profile.xml" value="0.264" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_intro.xml" value="0.4" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_offers.xml" value="0.2359375" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_otp.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_payment.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_product_info.xml" value="0.24896265560165975" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_saved_address.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_sub_category.xml" value="0.1" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_whislist.xml" value="0.264" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/activity_your_orders.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/additional_info.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/all_products.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/category_include.xml" value="0.4904522613065327" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/check.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/d.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/fragment_account.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/fragment_categories.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/fragment_edit_address.xml" value="0.2" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/fragment_home_page.xml" value="0.1" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/fragment_order_summary.xml" value="0.2359375" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/fragment_saved_address.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/fragment_sub_category.xml" value="0.1171875" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/layout.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/layout_cart.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/layout_categories.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/layout_deals.xml" value="0.2" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/layout_deals_scroll.xml" value="0.18318695106649938" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/layout_discounts.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/layout_order_confirmed.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/layout_order_summary.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/layout_orders.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/layout_saved_address.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/layout_screen.xml" value="0.20427350427350427" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/layout_subcategory.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/layout_theme.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/nav_header.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/nav_header_layout.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/order_summary.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/product_layout_screen.xml" value="0.18671875" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/recently_viewed_items.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/shop_for_layout.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/shop_for_layout2.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/structure_gift.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/toolbar.xml" value="0.10885416666666667" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/view.xml" value="0.20427350427350427" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/layout/whislist_layout.xml" value="0.4522706209453197" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/menu/activity_main_drawer.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/menu/list.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/menu/main_activity2.xml" value="0.25" />
+        <entry key="..\:/Users/nikhi/AndroidStudioProjects/PartyWala/app/src/main/res/menu/navigation_menu.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
